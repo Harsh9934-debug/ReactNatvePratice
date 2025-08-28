@@ -1,5 +1,5 @@
 import React from "react";
-import { View, Text, StyleSheet, Image, Button } from "react-native";
+import { View, Text, StyleSheet, Image, Button, TouchableOpacity, Alert } from "react-native";
 import { red } from "react-native-reanimated/lib/typescript/Colors";
 
 const Index = () => {
@@ -13,6 +13,10 @@ const Index = () => {
 
       <Button title ='click me' onPress={()=>{alert("Button is clicked")}}></Button> 
       {/* this Button property is no that good this is haviing the prebuilt styling */}
+
+      <TouchableOpacity>
+        <Text style= {styles.whiteText2} onPress={()=>{{Alert.alert("This is from the touchable opacity")}}}>this is from the different button</Text>
+      </TouchableOpacity>
 
 
     </View>
@@ -29,6 +33,13 @@ const styles = StyleSheet.create({
   whiteText: {
     color: "white", // white text
     fontSize: 20,  // bigger text
+  },
+  whiteText2: {
+    color: "white", // white text
+    fontSize: 20,
+    padding:20, 
+    margin:50,  
+    backgroundColor:"red"
   },
 });
 
