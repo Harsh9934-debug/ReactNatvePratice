@@ -11,7 +11,10 @@ const Index = () => {
         source={{uri:"https://images.unsplash.com/photo-1756370473190-4c41ddbd5e59?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwyfHx8ZW58MHx8fHx8"}}
       />
 
-      <Button title ='click me' onPress={()=>{alert("Button is clicked")}}></Button>
+      <Button title ='click me' onPress={()=>{alert("Button is clicked")}}></Button> 
+      {/* this Button property is no that good this is haviing the prebuilt styling */}
+
+
     </View>
   );
 };
