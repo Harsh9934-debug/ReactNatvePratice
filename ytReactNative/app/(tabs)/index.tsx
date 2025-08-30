@@ -28,10 +28,10 @@ const Index = () => {
 
 const styles = StyleSheet.create({
   container: {
-    flex: 1,                // take full screen
+    flex: 1,                
     justifyContent: "center",
     alignItems: "center",
-    backgroundColor: "black", // black background
+    backgroundColor: "black", 
   },
   whiteText: {
     color: "white", // white text
