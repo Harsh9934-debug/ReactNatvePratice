@@ -80,4 +80,8 @@ export default Index;
 
 // there is also the property called align self just to the single box that will take it to the top in the starting 
 
+// this is the section lead us about the flex weap property this is done so that the new property is and the original iten is not sring 
+
+// the flemWrap is the property to fix this 
+
 // 
