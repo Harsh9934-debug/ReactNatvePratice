@@ -86,4 +86,4 @@ export default Index;
 
 // to achive the scroll property that time we use the ScrollView instedd of the  view
 
-// 
+// see  in the main application to achive scrollin we use the FlatList this also make us achive the scroll view and then in this we can apply multiple auth that includes are the fillowing that are these suppse we have the 20000 data to be shown that time all the datas will be shown at once and then the oe app will become slow to remove this factor we use the extraData = {}   property to get rid of this property 
