@@ -74,5 +74,7 @@ export default Index;
 // justify content is the property that is used in the main axis that is in the x direction 
 // also the all the property are same space between, space around ,space evenly,center 
 
+// align item that is in the y dir 
 
+// the property could be stretch 
 
