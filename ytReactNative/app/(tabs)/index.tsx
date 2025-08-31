@@ -57,3 +57,5 @@ export default Index;
 
 // when we pass in the percentage and just the value the % is the value is used in the  covering the complete page 
 // and perffer using the percentage % rather than the value 
+
+// flex 1 takes the complete page height and width 
