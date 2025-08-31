@@ -70,3 +70,9 @@ export default Index;
 // that is done by the flex direction then we give the direction 
 
 // the x dir is known as the main axis 
+
+// justify content is the property that is used in the main axis that is in the x direction 
+// also the all the property are same space between, space around ,space evenly,center 
+
+
+
