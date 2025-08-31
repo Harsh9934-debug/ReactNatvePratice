@@ -84,4 +84,6 @@ export default Index;
 
 // the flemWrap is the property to fix this 
 
+// to achive the scroll property that time we use the ScrollView instedd of the  view
+
 // 
