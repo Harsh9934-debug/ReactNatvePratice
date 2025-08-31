@@ -78,4 +78,6 @@ export default Index;
 
 // the property could be stretch 
 
-// there is also the property called align self just to the single box 
+// there is also the property called align self just to the single box that will take it to the top in the starting 
+
+// 
