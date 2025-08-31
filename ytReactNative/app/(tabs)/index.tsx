@@ -21,7 +21,6 @@ const Index = () => {
       <Pressable>
         <Text style={styles.whiteText3} onPress={()=>{Alert.alert("This is a sample message")}}>Press me </Text>
       </Pressable>
-
     </View>
   );
 };
