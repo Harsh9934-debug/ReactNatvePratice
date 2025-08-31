@@ -50,3 +50,8 @@ const styles = StyleSheet.create({
 });
 
 export default Index;
+
+
+// useColourScheme()  
+// this is used for knowing the theme of the current styles
+
