@@ -1,6 +1,5 @@
 import React from "react";
 import { View, Text, StyleSheet, Image, Button, TouchableOpacity, Alert, Pressable } from "react-native";
-
 const Index = () => {
   return (
     <View style={styles.container}>
