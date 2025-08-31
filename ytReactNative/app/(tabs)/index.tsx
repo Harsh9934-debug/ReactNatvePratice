@@ -68,3 +68,5 @@ export default Index;
 //  By default the flex direction is in the colums 
 // but if we want to change this is the row that can be done
 // that is done by the flex direction then we give the direction 
+
+// the x dir is known as the main axis 
