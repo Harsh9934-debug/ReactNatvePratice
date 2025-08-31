@@ -59,3 +59,7 @@ export default Index;
 // and perffer using the percentage % rather than the value 
 
 // flex 1 takes the complete page height and width 
+// if we want to devide the page in the multiple part that time we combine all of then inside the other part in the single one eg 1+2+3 = 6
+
+// and the 3 container will be divided in the 1/6 and 2/6 and 3/6
+// this is the how the space is divide 
