@@ -91,3 +91,7 @@ export default Index;
 
 // Text input 
 
+// the property we use is the TextInput
+
+// and insite this the property are the following  that are 
+// placeholder    -----> this will be shown to the user as the place hoder as the message 
