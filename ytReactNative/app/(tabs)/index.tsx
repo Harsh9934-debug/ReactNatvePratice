@@ -78,3 +78,4 @@ export default Index;
 
 // the property could be stretch 
 
+// there is also the property called align self just to the single box 
