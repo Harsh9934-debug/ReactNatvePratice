@@ -63,3 +63,8 @@ export default Index;
 
 // and the 3 container will be divided in the 1/6 and 2/6 and 3/6
 // this is the how the space is divide 
+
+
+//  By default the flex direction is in the colums 
+// but if we want to change this is the row that can be done
+// that is done by the flex direction then we give the direction 
